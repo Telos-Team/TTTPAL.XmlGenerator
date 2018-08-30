@@ -1,0 +1,17 @@
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\Settings.xml
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\Settings.xsl
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\Settings.xsd
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\TTTPAL.XmlGenerator.exe
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.AboutBox.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.PostedForm.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.RejectedForm.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.SettingsSelector.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.MainForm.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.SettingsForm.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.csproj.GenerateResource.cache
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.csproj.CoreCompileInputs.cache
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.exe
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.csprojAssemblyReference.cache
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\obj\Release\TTTPAL.XmlGenerator.Properties.Resources.resources
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\Version.txt
+C:\Data\Visual Studio 2017\Projects\TTTPAL.XmlGenerator\TTTPAL.XmlGenerator\bin\Release\TTTPAL.XmlGenerator.exe.config

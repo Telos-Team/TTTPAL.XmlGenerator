@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Configuration>
+    <Name>PROD</Name>
+    <Folder>C:\Temp\Palette\#CONFIGURATION#\FromERP</Folder>
+    <Filename>#TYPE#_#CONFIGURATION#_#COMPANY#_#DATETIME#_#GUID#.xml</Filename>
+    <Company>
+      <Name>SHAREIT</Name>
+      <NumberSeries>PIDAT</NumberSeries>
+      <NumberSeries>PIDIT</NumberSeries>
+    </Company>
+    <Company>
+      <Name>TELOSTEAM</Name>
+      <NumberSeries>PIDAT</NumberSeries>
+      <NumberSeries>PIDIT</NumberSeries>
+    </Company>
+  </Configuration>
+  <Configuration>
+    <Name>TEST</Name>
+    <Folder>C:\Temp\Palette\#CONFIGURATION#\FromERP</Folder>
+    <Filename>#TYPE#_#CONFIGURATION#_#COMPANY#_#DATETIME#_#GUID#.xml</Filename>
+    <Company>
+      <Name>SHAREIT</Name>
+      <NumberSeries>PIDAT</NumberSeries>
+      <NumberSeries>PIDIT</NumberSeries>
+    </Company>
+    <Company>
+      <Name>TELOSTEAM</Name>
+      <NumberSeries>PIDAT</NumberSeries>
+      <NumberSeries>PIDIT</NumberSeries>
+    </Company>
+  </Configuration>
+</Settings>
