@@ -13,11 +13,14 @@ namespace TTTPAL.XmlGenerator
     {
         public string Type = "InvoiceReceipt";
         public string Id = "";
-        public int Status = 0;
+        public int Status = 4;
         public string Reason = "";
         public RejectedForm()
         {
             InitializeComponent();
+            lbStatus.SelectedIndex = 4;
+            tbId.Select();
+            //comboBox1.DropDownStyle = ComboBoxStyle
         }
 
         private void btnOK_Click(object sender, EventArgs e)

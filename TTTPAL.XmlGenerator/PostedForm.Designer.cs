@@ -72,7 +72,7 @@
             this.btnOK.Location = new System.Drawing.Point(211, 3);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
-            this.btnOK.TabIndex = 8;
+            this.btnOK.TabIndex = 3;
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
@@ -110,7 +110,7 @@
             this.tbVoucherSeries.Location = new System.Drawing.Point(97, 131);
             this.tbVoucherSeries.Name = "tbVoucherSeries";
             this.tbVoucherSeries.Size = new System.Drawing.Size(270, 20);
-            this.tbVoucherSeries.TabIndex = 13;
+            this.tbVoucherSeries.TabIndex = 1;
             // 
             // label2
             // 
@@ -126,7 +126,7 @@
             this.tbId.Location = new System.Drawing.Point(97, 4);
             this.tbId.Name = "tbId";
             this.tbId.Size = new System.Drawing.Size(100, 20);
-            this.tbId.TabIndex = 11;
+            this.tbId.TabIndex = 0;
             // 
             // label1
             // 
@@ -144,7 +144,7 @@
             this.tbVoucherNo.Location = new System.Drawing.Point(97, 157);
             this.tbVoucherNo.Name = "tbVoucherNo";
             this.tbVoucherNo.Size = new System.Drawing.Size(270, 20);
-            this.tbVoucherNo.TabIndex = 17;
+            this.tbVoucherNo.TabIndex = 2;
             // 
             // label4
             // 

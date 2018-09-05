@@ -23,7 +23,7 @@ namespace TTTPAL.XmlGenerator
             SettingsDocument = settings;
 
             System.Xml.Xsl.XslCompiledTransform xslTrans = new System.Xml.Xsl.XslCompiledTransform();
-            xslTrans.Load(System.IO.Path.Combine(new System.IO.DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.FullName, @"Settings.xsl"));
+            xslTrans.Load(System.IO.Path.Combine(new System.IO.DirectoryInfo(Environment.CurrentDirectory).FullName, @"Settings.xsl"));
 
             System.Xml.XmlReader reader = new System.Xml.XmlNodeReader(settings);
             SettingsStream = new System.IO.MemoryStream();

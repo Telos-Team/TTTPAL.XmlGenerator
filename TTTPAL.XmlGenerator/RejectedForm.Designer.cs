@@ -70,7 +70,7 @@
             this.btnOK.Location = new System.Drawing.Point(177, 3);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
-            this.btnOK.TabIndex = 8;
+            this.btnOK.TabIndex = 2;
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
@@ -89,7 +89,7 @@
             this.tbId.Location = new System.Drawing.Point(72, 7);
             this.tbId.Name = "tbId";
             this.tbId.Size = new System.Drawing.Size(100, 20);
-            this.tbId.TabIndex = 3;
+            this.tbId.TabIndex = 0;
             // 
             // label2
             // 
@@ -107,7 +107,7 @@
             this.tbReason.Location = new System.Drawing.Point(72, 134);
             this.tbReason.Name = "tbReason";
             this.tbReason.Size = new System.Drawing.Size(261, 20);
-            this.tbReason.TabIndex = 5;
+            this.tbReason.TabIndex = 1;
             // 
             // label3
             // 
