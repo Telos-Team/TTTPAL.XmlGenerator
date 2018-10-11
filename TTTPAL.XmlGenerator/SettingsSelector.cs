@@ -73,6 +73,7 @@ namespace TTTPAL.XmlGenerator
         {
             DataGridView dgv = (DataGridView)sender;
             SelectCompany(int.Parse(dgv.SelectedRows[0].Cells["Company_Id"].Value.ToString()));
+            SelectNumberSeries(dataGridViewNumberSeries.Rows[0].Cells["NumberSeries_Column"].Value.ToString());
         }
         private void DataGridViewNumberSeries_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -123,6 +124,7 @@ namespace TTTPAL.XmlGenerator
                 return;
             }
             SelectedCompany = settingsDataSet.Tables["Company"].Rows[id]["Name"].ToString();
+            SelectNumberSeries((dataGridViewNumberSeries.DataSource as DataTable).Rows[0]["NumberSeries_Column"].ToString());
         }
 
         private void SelectNumberSeries(string text)

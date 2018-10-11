@@ -16,6 +16,7 @@
             if (disposing && (components != null))
             {
                 components.Dispose();
+                this.SettingsStream.Dispose();
             }
             base.Dispose(disposing);
         }

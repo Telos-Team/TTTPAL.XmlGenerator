@@ -122,9 +122,19 @@ namespace TTTPAL.XmlGenerator
             string id = rejectedForm.Id;
             int status = rejectedForm.Status;
             string reason = rejectedForm.Reason;
-            if (id == "") throw new Exception("Missing id");
-            if (status == -1) throw new Exception("Missing status");
-            if (reason == "") throw new Exception("Missing reason");
+            //if (id == "") throw new Exception("Missing id");
+            //if (status == -1) throw new Exception("Missing status");
+            //if (reason == "") throw new Exception("Missing reason");
+            if (id == "")
+            {
+                MessageBox.Show("Missing id");
+                return;
+            }
+            if (status == -1)
+            {
+                MessageBox.Show("Missing status");
+                return;
+            }
 
             string xml =
                 "<?xml version = \"1.0\" encoding = \"iso-8859-1\"?>" +
@@ -155,10 +165,30 @@ namespace TTTPAL.XmlGenerator
             int status = postedForm.Status;
             string voucherSeries = postedForm.VoucherSeries;
             string voucherNo = postedForm.VoucherNo;
-            if (id == "") throw new Exception("Missing id");
-            if (status == -1) throw new Exception("Missing status");
-            if (voucherSeries == "") throw new Exception("Missing voucher series");
-            if (voucherNo == "") throw new Exception("Missing voucher no");
+            //if (id == "") throw new Exception("Missing id");
+            //if (status == -1) throw new Exception("Missing status");
+            //if (voucherSeries == "") throw new Exception("Missing voucher series");
+            //if (voucherNo == "") throw new Exception("Missing voucher no");
+            if (id == "")
+            {
+                MessageBox.Show("Missing id");
+                return;
+            }
+            if (status == -1)
+            {
+                MessageBox.Show("Missing status");
+                return;
+            }
+            if (voucherSeries == "")
+            {
+                MessageBox.Show("Missing voucher series");
+                return;
+            }
+            if (voucherNo == "")
+            {
+                MessageBox.Show("Missing voucher no");
+                return;
+            }
 
             string xml =
                 "<?xml version = \"1.0\" encoding = \"iso-8859-1\"?>" +
